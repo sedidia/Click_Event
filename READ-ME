@@ -1,0 +1,3 @@
+<h1>EXERCICES SUR LES EVENEMENTS</h1>
+<p>En premier lieu, nous nous exerçons sur un click normal. On souhaite changer le texte de la viewText lorsque l'on effectue un click normal.</p>
+<p>En deuxième lieu, nous nous exerciçons sur un long click, c'est à dire qu'on doit changer le texte de la vieuText lorsqu'on effectue un long click</p>
